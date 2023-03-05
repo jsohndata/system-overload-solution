@@ -19,17 +19,20 @@
 }
 
 body { padding: 0; margin: 0;
-  background-image: url(./background.webp);
+  background-image: url(./background2.webp);
   background-repeat: none;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
-  background-attachment: fixed;
   background-color:  rgb(13, 12, 12); 
 }
 
-#unity-canvas {
-  margin-top: 15%;
+
+#unity-canvas { background: #231F20; 
+  border: 2px solid rgba(50, 46, 165, 0.437);
+  filter: drop-shadow(0 0 20px rgba(133, 81, 197, 0.576));
 }
+
+#unity-container.unity-desktop { left: 50%; top: 59.4%; transform: translate(-50%, -50%) }
 
 .content { 
   width: 85%;
@@ -40,11 +43,10 @@ body { padding: 0; margin: 0;
 
 .content h1 {
   font-size: calc(2.2rem + 1.0vw);
-  color: rgba(25, 0, 255, 0.067);
+  color: rgba(189, 192, 0, 0.763);
   -webkit-text-stroke-width: 0.6px;
-  -webkit-text-stroke-color: rgb(203, 240, 17);
-  filter: drop-shadow(0 0 10px rgb(18, 189, 236));
-  letter-spacing: -2px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  filter: drop-shadow(0 0 30px rgba(179, 224, 217, 0.804));
   text-align: center;
 }
 
@@ -104,8 +106,3 @@ body { padding: 0; margin: 0;
   color: #f4f5f6e1 !important;
   text-decoration: none !important;
 }
-
-
-#unity-canvas { background: #231F20; 
-  border: 2px solid rgba(195, 0, 255, 0.437);
-  filter: drop-shadow(0 0 20px rgba(133, 81, 197, 0.643)); }
