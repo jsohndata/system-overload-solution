@@ -1,5 +1,5 @@
 # System Overload Solution
-`Captain's Log, Stardate 45623.8:` Our ship collided with an unknown object causing a dangerous plasma leak. Crew is containing the situation as the System Overlord Solution repairs our ship. We must locate an energy cube for repairs and investigate the alien object. The journey ahead is uncertain, but our crew is ready to boldly go.
+`Captain's Log, Stardate 45200.1:` Our ship collided with an unknown object causing a dangerous plasma leak. Crew is containing the situation as the System Overlord Solution repairs our ship. We must locate energy spheres for repairs and investigate the alien object. The journey ahead is uncertain, but our crew is ready to boldly go.
 
 <br>
 
