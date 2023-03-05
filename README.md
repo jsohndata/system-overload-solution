@@ -1,6 +1,5 @@
 # System Overload Solution
-
-A collision with an unknown alien object has been detected, resulting in plasma leakage from the ship. The System Overlord Solution has been initiated for the purpose of repairing the ship, with the mission objective of gathering an energy cube to facilitate the repairs and conducting an investigation of the alien object.
+`Captain's Log, Stardate 45623.8:` Our ship collided with an unknown object causing a dangerous plasma leak. Crew is containing the situation as the System Overlord Solution repairs our ship. We must locate an energy cube for repairs and investigate the alien object. The journey ahead is uncertain, but our crew is ready to boldly go.
 
 <br>
 
