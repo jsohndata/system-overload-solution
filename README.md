@@ -1,6 +1,6 @@
 # System Overload Solution
 [![Read Me](./TemplateData/readme.webp)](https://system-overload-solution.web.app/)
-`Captain's Log, Stardate 45200.1:` Our ship has collided with an unknown object, causing a dangerous plasma leak. The ship has sustained considerable damage, and the crew is currently working on repairs. In the meantime, the System Overload Solution has been deployed to collect energy spheres for repairs and investigate the mysterious alien object. The journey ahead is uncertain, but our crew is ready to boldly go.
+`Captain's Log, Stardate 45200.1:` Our ship has collided with an unknown object, causing a dangerous plasma leak. The ship has sustained considerable damage, and the crew is currently working on repairs. System Overload Solution has been deployed to collect energy spheres for repairs and investigate the mysterious alien object. The journey ahead is uncertain, but our crew is ready to boldly go.
 
 ## Link(s)
 * [👉 system-overload-solution.web.app](https://system-overload-solution.web.app/)
