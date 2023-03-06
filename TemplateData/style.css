@@ -29,6 +29,7 @@ body { padding: 0; margin: 0;
 
 #unity-canvas { background: #231F20; 
   border: 2px solid rgba(50, 46, 165, 0.437);
+  border-radius: 7px;
   filter: drop-shadow(0 0 20px rgba(133, 81, 197, 0.576));
 }
 
@@ -60,8 +61,9 @@ body { padding: 0; margin: 0;
 #unity-fullscreen-button { 
   width: 60%;
   margin: 0 auto;
-  border: 1px solid rgba(236, 225, 225, 0.251);
-  background-color: rgb(118, 17, 107);
+  border: 2px solid rgba(144, 200, 190, 0.687);
+  border-radius: 7px;
+  background-color: rgb(9, 143, 63);
   text-align: center;  
   padding: 10px;
  }
@@ -105,4 +107,22 @@ body { padding: 0; margin: 0;
 .footer a:visited {
   color: #f4f5f6e1 !important;
   text-decoration: none !important;
+}
+
+#mozarts-ghost {
+  position: fixed;
+  opacity: 1;
+  bottom: 0;
+  left: 10px;
+  padding: 10px;
+}
+
+#mozarts-ghost a:link,
+#mozarts-ghost a:visited {
+  color: rgb(164, 164, 235);
+  text-decoration: none;
+}
+
+#mozarts-ghost a:hover {
+  color: rgb(195, 0, 255);
 }
